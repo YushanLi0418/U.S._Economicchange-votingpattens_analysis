@@ -1,2 +1,2 @@
-# U.S._Economicchange-votingpattens_analysis
-County-level analysis of economic change and voting patterns across 3,000+ U.S. counties using R, regression modeling, and data visualization.
+# US-County-Economic-Analysis
+Analyzing economic conditions across 3,000+ U.S. counties using Census ACS data, focusing on income, unemployment, education, and population through visualization and regression analysis in R.
